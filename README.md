@@ -1,5 +1,6 @@
 git clone https://github.com/ljubicaa777/ljvukosavljee.git
 cd ljvukosavljee
+
 composer install
 npm install
 cp .env.example .env
