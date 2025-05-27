@@ -17,3 +17,6 @@ php artisan db:seed
 php artisan serve
 
 composer run dev
+
+
+Ljubica Vukosavljević 46/23 it
